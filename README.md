@@ -1,4 +1,5 @@
 # lab_6
+![image](https://github.com/user-attachments/assets/d055818e-cd3d-4ad3-b814-6a5c1b5e6340)
 
 A new Flutter project.
 
